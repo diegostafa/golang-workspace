@@ -1,4 +1,4 @@
-module sdl-drawer
+module sdl-paint
 
 go 1.18
 
